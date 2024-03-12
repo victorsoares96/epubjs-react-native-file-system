@@ -26,9 +26,8 @@ export function useFileSystem(): FileSystem {
     })
       .promise.then(async ({ statusCode }) => {
         if (statusCode === 200) {
-          const { path: filePath, size: fileSize } = await RNFS.stat(
-            toFilePath
-          );
+          const { path: filePath, size: fileSize } =
+            await RNFS.stat(toFilePath);
 
           setFile(filePath);
           setSize(fileSize);
