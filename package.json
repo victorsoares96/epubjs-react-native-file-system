@@ -1,6 +1,6 @@
 {
   "name": "@epubjs-react-native/file-system",
-  "version": "1.1.0",
+  "version": "1.1.1",
   "description": "An file system module for epubjs-react-native library",
   "main": "dist/cjs/index.js",
   "module": "dist/esm/index.js",
