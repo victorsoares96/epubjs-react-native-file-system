@@ -83,6 +83,14 @@ export function useFileSystem(): FileSystem {
     size,
     error,
     success,
+    documentDirectory: RNFS.DocumentDirectoryPath,
+    bundleDirectory: RNFS.MainBundlePath,
+    cacheDirectory: RNFS.CachesDirectoryPath,
+    readAsStringAsync: (fileUri, options) =>
+      RNFS.readFile(fileUri, options?.encoding),
+    writeAsStringAsync: (fileUri, contents, options) =>
+      RNFS.writeFile(fileUri, contents, options?.encoding),
+    deleteAsync: (fileUri) => RNFS.unlink(fileUri),
     downloadFile,
     getFileInfo,
   };
