@@ -48,7 +48,7 @@
   },
   "homepage": "https://github.com/victorsoares96/epubjs-react-native-file-system#readme",
   "resolutions": {
-    "@types/react": "18.2.66"
+    "@types/react": "18.3.11"
   },
   "peerDependencies": {
     "react": "*",
@@ -56,7 +56,7 @@
   },
   "devDependencies": {
     "@types/jest": "29.5.12",
-    "@types/react": "18.2.66",
+    "@types/react": "18.3.11",
     "@typescript-eslint/eslint-plugin": "7.2.0",
     "@typescript-eslint/parser": "7.2.0",
     "commitizen": "4.3.0",
@@ -72,7 +72,7 @@
     "jest": "29.7.0",
     "lint-staged": "15.2.2",
     "prettier": "3.2.5",
-    "react": "18.2.0",
+    "react": "18.3.1",
     "rimraf": "5.0.5",
     "react-native-fs": "2.20.0",
     "ts-jest": "29.1.2",
