@@ -52,9 +52,10 @@
   },
   "peerDependencies": {
     "react": "*",
-    "react-native-fs": "*"
+    "@dr.pogodin/react-native-fs": "*"
   },
   "devDependencies": {
+    "@dr.pogodin/react-native-fs": "^2.30.3",
     "@types/jest": "29.5.12",
     "@types/react": "18.2.66",
     "@typescript-eslint/eslint-plugin": "7.2.0",
@@ -74,7 +75,6 @@
     "prettier": "3.2.5",
     "react": "18.2.0",
     "rimraf": "5.0.5",
-    "react-native-fs": "2.20.0",
     "ts-jest": "29.1.2",
     "typescript": "5.4.2"
   },
