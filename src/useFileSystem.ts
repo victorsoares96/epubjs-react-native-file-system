@@ -1,5 +1,5 @@
 import { useCallback, useState } from 'react';
-import RNFS from '@dr.pogodin/react-native-fs';
+import * as RNFS from '@dr.pogodin/react-native-fs';
 import type { FileSystem } from './types';
 
 export function useFileSystem(): FileSystem {
