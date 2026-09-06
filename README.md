@@ -1,6 +1,8 @@
 # epubjs-react-native-file-system
 
-> epubjs-react-native-file-system is a module that provides a file system for the epubjs-react-native library.
+> File system adapter for [epubjs-react-native](https://github.com/victorsoares96/epubjs-react-native) on bare React Native.
+
+Uses [`@dr.pogodin/react-native-fs`](https://github.com/birdofpreyru/react-native-fs) (the maintained fork of `react-native-fs`).
 
 ## Usage
 
