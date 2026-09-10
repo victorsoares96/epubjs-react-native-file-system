@@ -52,7 +52,7 @@
     "react": "*"
   },
   "devDependencies": {
-    "@biomejs/biome": "2.5.12",
+    "@biomejs/biome": "2.5.13",
     "@dr.pogodin/react-native-fs": "2.40.2",
     "@types/jest": "29.5.14",
     "@types/react": "19.2.18",
