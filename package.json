@@ -53,7 +53,7 @@
   },
   "devDependencies": {
     "@biomejs/biome": "2.5.12",
-    "@dr.pogodin/react-native-fs": "2.40.2",
+    "@dr.pogodin/react-native-fs": "2.40.3",
     "@types/jest": "29.5.14",
     "@types/react": "19.2.18",
     "commitizen": "4.3.2",
