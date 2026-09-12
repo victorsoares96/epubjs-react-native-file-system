@@ -600,10 +600,10 @@
   dependencies:
     "@jridgewell/trace-mapping" "0.3.9"
 
-"@dr.pogodin/react-native-fs@2.40.2":
-  version "2.40.2"
-  resolved "https://registry.yarnpkg.com/@dr.pogodin/react-native-fs/-/react-native-fs-2.40.2.tgz#cd8ea21e78fd6146b2487537121355cf863e9170"
-  integrity sha512-UitoZGxMvcaka22kiVsX7Z7qtqKHpm6a5o4EJGnMdtHfjUEHS2ubE74UXjg0j8HK1ihTimSY8/E1P075kz90jw==
+"@dr.pogodin/react-native-fs@2.40.3":
+  version "2.40.3"
+  resolved "https://registry.yarnpkg.com/@dr.pogodin/react-native-fs/-/react-native-fs-2.40.3.tgz#77310b423eaa07800544aff09bb3fc1e80a4db1d"
+  integrity sha512-4ZTrM7kwFnH+8Ay8aNCK8qRQyOv9dVtd0cmv5kVBUK8JRLFgPww0mT2KE1OJ0XNtJRyUuOyhm9AijJ4IW8FExQ==
   dependencies:
     buffer "^6.0.3"
     http-status-codes "^2.3.0"
