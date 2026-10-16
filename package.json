@@ -48,7 +48,7 @@
   },
   "homepage": "https://github.com/victorsoares96/epubjs-react-native-file-system#readme",
   "peerDependencies": {
-    "@dr.pogodin/react-native-fs": "*",
+    "@dr.pogodin/react-native-fs": ">=2.40.1",
     "react": "*"
   },
   "devDependencies": {
